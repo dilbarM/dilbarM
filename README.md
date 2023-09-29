@@ -21,7 +21,7 @@
 
 ###
 
-<p align="left">I'm Dilbar shuhood <br><br>- 🔭 A passionate developer from India<br>- 📚 I'm currently pursuing my btech in computer science and engineering from cochin university of science and technology</p>
+<p align="left">I'm Dilbar shuhood <br><br>-  A passionate developer from India<br>- 📚 Currently pursuing my btech in computer science and engineering from cochin university of science and technology</p>
 
 ###
 
